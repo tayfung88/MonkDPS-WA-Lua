@@ -5,7 +5,7 @@ Basé sur le bloc d'auras développé par Afenar, ce projet adapte et enrichit l
 
 ## Capture d'écran 
 
-![WA Screen2](MonkDPS-WA-Lua/Images/monk_shado-pan_display.png) ![WA Screen1](MonkDPS-WA-Lua/Images/monk_celestial_display.png) 
+![WA Screen2](TayMonk-Weakauras/Images/monk_shado-pan_display.png) ![WA Screen1](TayMonk-Weakauras/Images/monk_celestial_display.png) 
 
 ## Structure du projet
 
