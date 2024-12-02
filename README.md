@@ -1,10 +1,11 @@
-# TayMonk - WoW WeakAuras pour Moine DPS (TWW - 11.0.5)
+# TayMonk[Afenar] - WoW WeakAuras pour Moine DPS (TWW - 11.0.5)
 
-TayMonk est un ensemble d'auras personnalisées pour les moines DPS dans World of Warcraft. Ce projet utilise l'addon WeakAuras pour fournir une interface dynamique et fonctionnelle adaptée dans le but d'optimiser le dps de la classe.
+TayMonk est un ensemble d'auras WeakAuras personnalisées pour les moines DPS (spécialisation Windwalker) dans World of Warcraft. 
+Basé sur le bloc d'auras développé par Afenar, ce projet adapte et enrichit les fonctionnalités pour optimiser le DPS de la classe en version 11.0.5.
 
 ## Capture d'écran 
 
-![WA Screen1](TayMonk-Weakauras/Images/monk_celestial_display.png) ![WA Screen2](TayMonk-Weakauras/Images/monk_shado-pan_display.png)
+![WA Screen2](MonkDPS-WA-Lua/Images/monk_shado-pan_display.png) ![WA Screen1](MonkDPS-WA-Lua/Images/monk_celestial_display.png) 
 
 ## Structure du projet
 
